@@ -93,3 +93,5 @@ Integration tests use the Splinter webdriver with Google Chrome. For instruction
 ## License
 
 All source code published here is available under the terms of the [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.html).
+
+i made a change!
